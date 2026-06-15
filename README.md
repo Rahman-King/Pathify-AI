@@ -1,6 +1,6 @@
 # Pathify-Pathify the Chaos
 
-# Pathify OS 🛰️
+# Pathify AI
 ### *Translating Community Chaos into Clear, Actionable Steps*
 
 ---
@@ -14,7 +14,7 @@ During sudden socioeconomic crises or severe environmental emergencies—such as
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
 Pathify OS combines advanced data-driven logistics with highly accessible citizen tools into a single, cohesive ecosystem:
 
