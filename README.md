@@ -19,7 +19,7 @@ During sudden socioeconomic crises or severe environmental emergencies—such as
 Pathify OS combines advanced data-driven logistics with highly accessible citizen tools into a single, cohesive ecosystem:
 
 1. **Multi-Source Document Ingestion (OCR & Scan)**
-   Allows users to easily upload PDFs, screenshot messages, or scan physical emergency notifications using a smartphone camera to extract raw text instantly.
+	   Allows users to easily upload PDFs, screenshot messages, or scan physical emergency notifications using a smartphone camera to extract raw text instantly.
 2. **LLM Crisis & Context Prediction Engine**
    Scans unstructured text data (like public safety bulletins, river level feeds, and weather alerts) to analyze patterns and actively forecast secondary hazards before they escalate.
 3. **Plain-Language Jargon Translator**
